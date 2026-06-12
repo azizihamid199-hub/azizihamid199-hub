@@ -1,4 +1,18 @@
 <p align="center">
+  <!-- Eleganter Farbverlauf von Indigo zu Blau -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=220&section=header&text=Hamid%20Azizi&fontSize=45&animation=scale" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&width=500&lines=Application+Developer;Backend+•+Frontend+•+Databases;Looking+for+an+internship!" />
+</p>
+
+---
+
+
+
+
+<p align="center">
   <!-- Schwarzer Hintergrund mit neongrüner Schrift -->
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0c3521&height=180&section=header&text=Hamid%20//%20Root%20Access&fontSize=40&fontColor=&animation=fadeIn" width="100%" />
 </p>
