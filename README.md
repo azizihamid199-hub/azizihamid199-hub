@@ -1,16 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=23&height=200&section=header&text=Hamid%20Azizi&fontSize=45&animation=fadeIn" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=200&section=header&text=Hamid%20Azizi&fontSize=45&animation=fadeIn" width="100%" />
-</p>
-
-
-<p align="center">
-  <!-- Schwarzer Hintergrund mit neongrüner Schrift -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0c3521&height=180&section=header&text=Hamid%20//%20Root%20Access&fontSize=40&fontColor=&animation=fadeIn" width="100%" />
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Loading+Skills...;Python+|+Java+|+SQL+|+HTML;Internship+2026+Ready for." />
