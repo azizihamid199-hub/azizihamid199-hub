@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=22&pause=1000&color=e5fda1&center=true&vCenter=true&width=500&lines=Loading+Skills...;Python+|+Java+|+SQL+|+HTML;Internship+2026+Ready." />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Loading+Skills...;Python+|+Java+|+SQL+|+HTML;Internship+2026+Ready for." />
 </p>
 
 <p align="center">
