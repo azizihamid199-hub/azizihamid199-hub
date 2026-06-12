@@ -3,9 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Loading+Skills...;Python+|+Java+|+SQL+|+HTML;Internship+2026+Ready for." />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=200&section=header&text=Hamid%20Azizi&fontSize=45&animation=fadeIn" width="100%" />
-</p>
 
 ---
 
