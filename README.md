@@ -28,7 +28,7 @@ An diesen Projekten habe ich zuletzt gearbeitet:
 <a href="https://github.com/azizihamid199-hub/dashboard-frontend">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=azizihamid199-hub&repo=dashboard-frontend&theme=dark" />
 </a>
-<a href="https://github.com/azizihamid199-hub/car-rental-java">
+<a href="https://github.com/azizihamid199-hub/car-rental">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=azizihamid199-hub&repo=car-rental-java&theme=dark" />
 </a>
 <!--
