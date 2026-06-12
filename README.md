@@ -4,17 +4,17 @@
 <details>
 <summary>🇩🇪 Deutsche Version anzeigen</summary>
 
-Hallo! Ich bin Hamid, ein angehender Anwendungsentwickler...[Hallo! Ich bin Hamid, ein angehender Anwendungsentwickler auf der Suche nach einem Praktikumsplatz, bei dem ich mein theoretisches Wissen in echten Agentur-Projekten einbringen und vertiefen kann.
+Hallo! Ich bin Hamid, ein angehender Anwendungsentwickler auf der Suche nach einem Praktikumsplatz, bei dem ich mein theoretisches Wissen in echten Agentur-Projekten einbringen und vertiefen kann.
 
-Es begeistert mich, Konzepte in funktionale Anwendungen zu verwandeln, und ich brenne darauf, meine Fähigkeiten in einem professionellen Umfeld weiterzuentwickeln. Besonders großes Interesse habe ich daran, aktiv an Kundenprojekten mitzuwirken, Best Practices der Branche zu erlernen und eng mit erfahrenen Entwicklerteams zusammenzuarbeiten.]
+Es begeistert mich, Konzepte in funktionale Anwendungen zu verwandeln, und ich brenne darauf, meine Fähigkeiten in einem professionellen Umfeld weiterzuentwickeln. Besonders großes Interesse habe ich daran, aktiv an Kundenprojekten mitzuwirken, Best Practices der Branche zu erlernen und eng mit erfahrenen Entwicklerteams zusammenzuarbeiten.
 </details>
 
 <details>
 <summary>🇬🇧 View English Version</summary>
 
-Hello! I'm Hamid, an aspiring application developer... [Hello! I'm Hamid, an aspiring application developer actively seeking an internship position where I can apply and deepen my theoretical knowledge through real-world agency projects.
+Hello! I'm Hamid, an aspiring application developer actively seeking an internship position where I can apply and deepen my theoretical knowledge through real-world agency projects.
 
-I'm passionate about translating concepts into functional applications and eager to grow my skills in a professional environment. I'm particularly interested in contributing to client projects while learning industry best practices and collaborating with experienced development teams.]
+I'm passionate about translating concepts into functional applications and eager to grow my skills in a professional environment. I'm particularly interested in contributing to client projects while learning industry best practices and collaborating with experienced development teams.
 </details>
 <!--
 **azizihamid199-hub/azizihamid199-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
