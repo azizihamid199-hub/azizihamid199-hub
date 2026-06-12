@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- Schwarzer Hintergrund mit neongrüner Schrift -->
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0c3521&height=180&section=header&text=Hamid%20//%20Root%20Access&fontSize=40&fontColor=&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0c3521&height=180&section=header&text=Hamid%20//%20Root%20Access&fontSize=40&fontColor=&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
