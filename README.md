@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20ich%20bin%20Hamid&fontSize=40&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi There,%20i'm%20Hamid&fontSize=40&animation=fadeIn" />
 </p>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=4F46E5&center=true&vCenter=true&width=500&lines=Angehender+Anwendungsentwickler;Python+|+Java+|+SQL+|+Web;Suche+Pflichtpraktikum+2026!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=4F46E5&center=true&vCenter=true&width=500&lines=Angehender+Anwendungsentwickler;Python+|+Java+|+SQL+|+Web;freut mich+dass du hier bist!" alt="Typing SVG" />
   </a>
 </p>
 
