@@ -1,8 +1,11 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Loading+Skills...;Python+|+Java+|+SQL+|+HTML;Internship+2026+Ready for." />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=indigo&height=180&section=header&text=Hamid%20%7C%20Developer&fontSize=40&animation=fadeIn" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Anwendungsentwickler;Python+•+Java+•+SQL+•+Web;Auf+der+Suche+nach+einem+Praktikum!" />
+</p>
 
 ---
 
