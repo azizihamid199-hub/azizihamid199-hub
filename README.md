@@ -1,41 +1,24 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=indigo&height=180&section=header&text=Hamid%20%7C%20Developer&fontSize=40&animation=fadeIn" />
+  <!-- Schwarzer Hintergrund mit neongrüner Schrift -->
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=180&section=header&text=Hamid%20//%20Root%20Access&fontSize=40&fontColor=00FF00&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Anwendungsentwickler;Python+•+Java+•+SQL+•+Web;Auf+der+Suche+nach+einem+Praktikum!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Loading+Skills...;Python+|+Java+|+SQL+|+HTML;Internship+2026+Ready." />
 </p>
 
 ---
 
 ## 👤 Über mich
-
-Hallo! Ich bin Hamid, ein angehender Anwendungsentwickler auf der Suche nach einem Praktikumsplatz, bei dem ich mein theoretisches Wissen in echten Agentur-Projekten einbringen und vertiefen kann... *(Hier deinen restlichen Text rein)*
-
----
-
-## 🛠️ Tech-Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+*Hier kommt dein Text hin...*
 
 ---
 
-## 📈 Statistiken
-
+## 📈 Statistiken (Im Hacker-Look)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azizihamid199-hub&show_icons=true&theme=tokyonight&locale=de" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizihamid199-hub&layout=compact&theme=tokyonight&locale=de" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=azizihamid199-hub&show_icons=true&theme=matrix&locale=de" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizihamid199-hub&layout=compact&theme=matrix&locale=de" width="49%" />
 </p>
-
-
-
-
 
 ## Hi there 👋
 ## 👤 Über mich / About Me
