@@ -1,13 +1,11 @@
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=indigo&height=180&section=header&text=Hamid%20%7C%20Developer&fontSize=40&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20ich%20bin%20Hamid&fontSize=40&animation=fadeIn" />
 </p>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Anwendungsentwickler;Python+•+Java+•+SQL+•+Web;Auf+der+Suche+nach+einem+Praktikum!" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=4F46E5&center=true&vCenter=true&width=500&lines=Angehender+Anwendungsentwickler;Python+|+Java+|+SQL+|+Web;Suche+Pflichtpraktikum+2026!" alt="Typing SVG" />
+  </a>
 </p>
-
----
 
 
 ## 👤 Über mich / About Me
