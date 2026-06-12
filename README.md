@@ -16,6 +16,21 @@ Hello! I'm Hamid, an aspiring application developer actively seeking an internsh
 
 I'm passionate about translating concepts into functional applications and eager to grow my skills in a professional environment. I'm particularly interested in contributing to client projects while learning industry best practices and collaborating with experienced development teams.
 </details>
+
+
+## 📌 Top Projekte
+
+An diesen Projekten habe ich zuletzt gearbeitet:
+
+<a href="https://github.com/azizihamid199-hub/budget-planer-python">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=azizihamid199-hub&repo=budget-planer-python&theme=dark" />
+</a>
+<a href="https://github.com/azizihamid199-hub/dashboard-frontend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=azizihamid199-hub&repo=dashboard-frontend&theme=dark" />
+</a>
+<a href="https://github.com/azizihamid199-hub/car-rental-java">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=azizihamid199-hub&repo=car-rental-java&theme=dark" />
+</a>
 <!--
 **azizihamid199-hub/azizihamid199-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -43,16 +58,4 @@ Here are some ideas to get you started:
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📌 Top Projekte
 
-An diesen Projekten habe ich zuletzt gearbeitet:
-
-<a href="https://github.com/azizihamid199-hub/budget-planer-python">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=azizihamid199-hub&repo=budget-planer-python&theme=dark" />
-</a>
-<a href="https://github.com/azizihamid199-hub/dashboard-frontend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=azizihamid199-hub&repo=dashboard-frontend&theme=dark" />
-</a>
-<a href="https://github.com/azizihamid199-hub/car-rental-java">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=azizihamid199-hub&repo=car-rental-java&theme=dark" />
-</a>
