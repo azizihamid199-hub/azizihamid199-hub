@@ -9,18 +9,7 @@
 
 ---
 
-## 👤 Über mich
-*Hier kommt dein Text hin...*
 
----
-
-## 📈 Statistiken (Im Hacker-Look)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azizihamid199-hub&show_icons=true&theme=matrix&locale=de" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizihamid199-hub&layout=compact&theme=matrix&locale=de" width="49%" />
-</p>
-
-## Hi there 👋
 ## 👤 Über mich / About Me
 
 <details>
