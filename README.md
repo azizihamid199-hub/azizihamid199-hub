@@ -32,14 +32,14 @@ An diesen Projekten habe ich zuletzt gearbeitet:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=azizihamid199-hub&repo=car-rental-java&theme=dark" />
 </a>
 
-* Sprachen:
+## Sprachen & Tools/IDEs:
 [Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=Yellow&Blue)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=sqlite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-*Tools/IDEs:
+
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=Yellow&Blue)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
