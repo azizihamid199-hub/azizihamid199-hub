@@ -1,15 +1,10 @@
 <p align="center">
-  <!-- Eleganter Farbverlauf von Indigo zu Blau -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=220&section=header&text=Hamid%20Azizi&fontSize=45&animation=scale" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=23&height=200&section=header&text=Hamid%20Azizi&fontSize=45&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&width=500&lines=Application+Developer;Backend+•+Frontend+•+Databases;Looking+for+an+internship!" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=200&section=header&text=Hamid%20Azizi&fontSize=45&animation=fadeIn" width="100%" />
 </p>
-
----
-
-
 
 
 <p align="center">
@@ -19,6 +14,10 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=22&pause=1000&color=e5fda1&center=true&vCenter=true&width=500&lines=Loading+Skills...;Python+|+Java+|+SQL+|+HTML;Internship+2026+Ready." />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=200&section=header&text=Hamid%20Azizi&fontSize=45&animation=fadeIn" width="100%" />
 </p>
 
 ---
