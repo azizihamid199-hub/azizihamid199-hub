@@ -1,10 +1,10 @@
 <p align="center">
   <!-- Schwarzer Hintergrund mit neongrüner Schrift -->
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=40483f&height=180&section=header&text=Hamid%20//%20Root%20Access&fontSize=40&fontColor=87e43e&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0c3521&height=180&section=header&text=Hamid%20//%20Root%20Access&fontSize=40&fontColor=&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=22&pause=1000&color=B4CE!F&center=true&vCenter=true&width=500&lines=Loading+Skills...;Python+|+Java+|+SQL+|+HTML;Internship+2026+Ready." />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=22&pause=1000&color=e5fda1&center=true&vCenter=true&width=500&lines=Loading+Skills...;Python+|+Java+|+SQL+|+HTML;Internship+2026+Ready." />
 </p>
 
 ---
