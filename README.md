@@ -1,6 +1,6 @@
 <p align="center">
   <!-- Schwarzer Hintergrund mit neongrüner Schrift -->
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=180&section=header&text=Hamid%20//%20Root%20Access&fontSize=40&fontColor=00FF00&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=180&section=header&text=Hamid%20//%20Root%20Access&fontSize=40&fontColor=2F7F6D&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
