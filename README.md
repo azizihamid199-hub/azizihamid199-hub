@@ -79,22 +79,20 @@
         </div>
         <p class="project-desc">Aufgabenverwaltung mit JavaFX-Oberfläche und lokaler Datenbank.</p>
     </div>
-
-    <!-- Projekt 2 -->
+ <!-- Projekt 2 -->
     <div class="project">
         <div class="project-header">
             <!-- 🔧 HIER: Link zu deinem GitHub-Repository -->
-            <a href="https://github.com/DEIN_USERNAME/portfolio-seite" class="project-name" target="_blank">📁 Portfolio-Seite</a>
+            <a href="https://github.com/azizihamid199-hub/dashboard-frontend" class="project-name" target="_blank">📁dashboard-frontend</a>
             <span class="project-lang">HTML / CSS</span>
         </div>
         <p class="project-desc">Diese Seite – responsive, Dark Mode, ohne Frameworks.</p>
     </div>
-
-    <!-- Projekt 3 -->
+ <!-- Projekt 3 -->
     <div class="project">
         <div class="project-header">
             <!-- 🔧 HIER: Link zu deinem GitHub-Repository -->
-            <a href="https://github.com/DEIN_USERNAME/wetter-tool" class="project-name" target="_blank">📁 Wetter-Tool</a>
+            <a href="https://https://github.com/azizihamid199-hub/budget-planer-python" class="project-name" target="_blank">📁 budget-planer-python</a>
             <span class="project-lang">Python</span>
         </div>
         <p class="project-desc">API-Abfrage und Datenverarbeitung mit Python-Script.</p>
