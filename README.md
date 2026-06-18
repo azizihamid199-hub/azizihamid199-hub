@@ -440,59 +440,182 @@
             </ul>
         </div>
  <!-- Skills -->
-        <div class="card">
-            <h2>
-                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                    <polyline points="16 18 22 12 16 6"></polyline>
-                    <polyline points="8 6 2 12 8 18"></polyline>
-                </svg>
-                Technische Skills
-            </h2>
-            <div class="skills-grid">
-                <div class="skill-item">
-                    <div class="skill-icon">☕</div>
-                    <div class="skill-info" style="width: 100%;">
-                        <h4>Java</h4>
-                        <div class="progress-bar"><div class="progress-fill" style="width: 75%"></div></div>
-                    </div>
+       <!-- Skills-Sektion für dein GitHub Profil -->
+<div class="card">
+    <h2>
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <polyline points="16 18 22 12 16 6"></polyline>
+            <polyline points="8 6 2 12 8 18"></polyline>
+        </svg>
+        Während der Umschulung gelernt
+    </h2>
+    
+    <!-- IDE & Tools -->
+    <h3 style="color: var(--text-secondary); margin: 1.5rem 0 1rem; font-size: 0.9rem; text-transform: uppercase; letter-spacing: 1px;">
+        Entwicklungsumgebung
+    </h3>
+    <div class="skills-grid">
+        <div class="skill-item">
+            <div class="skill-icon">🛠️</div>
+            <div class="skill-info" style="width: 100%;">
+                <div style="display: flex; justify-content: space-between; margin-bottom: 0.3rem;">
+                    <h4>PyCharm / IntelliJ IDEA</h4>
+                    <span style="color: var(--text-secondary); font-size: 0.85rem;">IDE-Nutzung, Debugging, Refactoring</span>
                 </div>
-                <div class="skill-item">
-                    <div class="skill-icon">🐍</div>
-                    <div class="skill-info" style="width: 100%;">
-                        <h4>Python</h4>
-                        <div class="progress-bar"><div class="progress-fill" style="width: 70%"></div></div>
-                    </div>
-                </div>
-                <div class="skill-item">
-                    <div class="skill-icon">🌐</div>
-                    <div class="skill-info" style="width: 100%;">
-                        <h4>HTML / CSS / JS</h4>
-                        <div class="progress-bar"><div class="progress-fill" style="width: 80%"></div></div>
-                    </div>
-                </div>
-                <div class="skill-item">
-                    <div class="skill-icon">⚛️</div>
-                    <div class="skill-info" style="width: 100%;">
-                        <h4>React</h4>
-                        <div class="progress-bar"><div class="progress-fill" style="width: 60%"></div></div>
-                    </div>
-                </div>
-                <div class="skill-item">
-                    <div class="skill-icon">🗄️</div>
-                    <div class="skill-info" style="width: 100%;">
-                        <h4>SQL / PostgreSQL</h4>
-                        <div class="progress-bar"><div class="progress-fill" style="width: 65%"></div></div>
-                    </div>
-                </div>
-                <div class="skill-item">
-                    <div class="skill-icon">🐙</div>
-                    <div class="skill-info" style="width: 100%;">
-                        <h4>Git / GitHub</h4>
-                        <div class="progress-bar"><div class="progress-fill" style="width: 85%"></div></div>
-                    </div>
-                </div>
+                <div class="progress-bar"><div class="progress-fill" style="width: 80%"></div></div>
             </div>
         </div>
+    </div>
+
+    <!-- Programmiersprachen -->
+    <h3 style="color: var(--text-secondary); margin: 1.5rem 0 1rem; font-size: 0.9rem; text-transform: uppercase; letter-spacing: 1px;">
+        Programmierung
+    </h3>
+    <div class="skills-grid">
+        <div class="skill-item">
+            <div class="skill-icon">☕</div>
+            <div class="skill-info" style="width: 100%;">
+                <div style="display: flex; justify-content: space-between; margin-bottom: 0.3rem;">
+                    <h4>Java</h4>
+                    <span style="color: var(--text-secondary); font-size: 0.85rem;">OOP, Collections, Streams, JavaFX</span>
+                </div>
+                <div class="progress-bar"><div class="progress-fill" style="width: 75%"></div></div>
+            </div>
+        </div>
+        <div class="skill-item">
+            <div class="skill-icon">🐍</div>
+            <div class="skill-info" style="width: 100%;">
+                <div style="display: flex; justify-content: space-between; margin-bottom: 0.3rem;">
+                    <h4>Python</h4>
+                    <span style="color: var(--text-secondary); font-size: 0.85rem;">Grundlagen, Datenstrukturen, Scripting</span>
+                </div>
+                <div class="progress-bar"><div class="progress-fill" style="width: 70%"></div></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Datenbanken -->
+    <h3 style="color: var(--text-secondary); margin: 1.5rem 0 1rem; font-size: 0.9rem; text-transform: uppercase; letter-spacing: 1px;">
+        Datenbanken
+    </h3>
+    <div class="skills-grid">
+        <div class="skill-item">
+            <div class="skill-icon">🗄️</div>
+            <div class="skill-info" style="width: 100%;">
+                <div style="display: flex; justify-content: space-between; margin-bottom: 0.3rem;">
+                    <h4>SQL</h4>
+                    <span style="color: var(--text-secondary); font-size: 0.85rem;">MySQL, PostgreSQL, JOINs, Normalisierung</span>
+                </div>
+                <div class="progress-bar"><div class="progress-fill" style="width: 72%"></div></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Webentwicklung -->
+    <h3 style="color: var(--text-secondary); margin: 1.5rem 0 1rem; font-size: 0.9rem; text-transform: uppercase; letter-spacing: 1px;">
+        Webentwicklung
+    </h3>
+    <div class="skills-grid">
+        <div class="skill-item">
+            <div class="skill-icon">🌐</div>
+            <div class="skill-info" style="width: 100%;">
+                <div style="display: flex; justify-content: space-between; margin-bottom: 0.3rem;">
+                    <h4>HTML5</h4>
+                    <span style="color: var(--text-secondary); font-size: 0.85rem;">Semantik, Struktur, Accessibility</span>
+                </div>
+                <div class="progress-bar"><div class="progress-fill" style="width: 85%"></div></div>
+            </div>
+        </div>
+        <div class="skill-item">
+            <div class="skill-icon">🎨</div>
+            <div class="skill-info" style="width: 100%;">
+                <div style="display: flex; justify-content: space-between; margin-bottom: 0.3rem;">
+                    <h4>CSS3</h4>
+                    <span style="color: var(--text-secondary); font-size: 0.85rem;">Flexbox, Grid, Responsive Design, Animationen</span>
+                </div>
+                <div class="progress-bar"><div class="progress-fill" style="width: 78%"></div></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Zusätzliche "Was ich gelernt habe" Sektion -->
+<div class="card">
+    <h2>
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
+            <polyline points="14 2 14 8 20 8"></polyline>
+            <line x1="16" y1="13" x2="8" y2="13"></line>
+            <line x1="16" y1="17" x2="8" y2="17"></line>
+            <polyline points="10 9 9 9 8 9"></polyline>
+        </svg>
+        Detaillierte Lernerfolge
+    </h2>
+    
+ <div style="display: grid; gap: 1.2rem;">
+        <!-- Java -->
+        <div style="background: var(--bg-dark); padding: 1rem; border-radius: 8px; border-left: 3px solid #b07219;">
+            <h4 style="color: #b07219; margin-bottom: 0.5rem;">☕ Java-Entwicklung</h4>
+            <ul style="margin-left: 1.2rem; color: var(--text-secondary); font-size: 0.9rem; line-height: 1.8;">
+                <li>Objektorientierte Programmierung (Klassen, Vererbung, Polymorphie, Encapsulation)</li>
+                <li>Java Collections Framework (List, Set, Map, Streams API)</li>
+                <li>Ausnahmebehandlung (try-catch, eigene Exceptions)</li>
+                <li>JavaFX für Desktop-GUIs (FXML, Controller, Event-Handling)</li>
+                <li>Datei-Ein-/Ausgabe (IO-Streams, Serialization)</li>
+                <li>Unit-Testing mit JUnit</li>
+            </ul>
+        </div>
+     <!-- Python -->
+        <div style="background: var(--bg-dark); padding: 1rem; border-radius: 8px; border-left: 3px solid #3572A5;">
+            <h4 style="color: #3572A5; margin-bottom: 0.5rem;">🐍 Python-Grundlagen</h4>
+            <ul style="margin-left: 1.2rem; color: var(--text-secondary); font-size: 0.9rem; line-height: 1.8;">
+                <li>Grundlegende Syntax, Datenstrukturen (Listen, Dictionaries, Tupel)</li>
+                <li>Funktionen und Module</li>
+                <li>Objektorientierte Konzepte in Python</li>
+                <li>Dateiverarbeitung und CSV-Handling</li>
+                <li>Erste Schritte mit Flask (Web-Framework)</li>
+            </ul>
+        </div>
+ <!-- SQL -->
+        <div style="background: var(--bg-dark); padding: 1rem; border-radius: 8px; border-left: 3px solid #e38c00;">
+            <h4 style="color: #e38c00; margin-bottom: 0.5rem;">🗄️ Datenbanken & SQL</h4>
+            <ul style="margin-left: 1.2rem; color: var(--text-secondary); font-size: 0.9rem; line-height: 1.8;">
+                <li>Datenbankdesign und ER-Modelle</li>
+                <li>DDL (CREATE, ALTER, DROP) und DML (SELECT, INSERT, UPDATE, DELETE)</li>
+                <li>Komplexe JOIN-Operationen (INNER, LEFT, RIGHT, FULL)</li>
+                <li>Subqueries und Views</li>
+                <li>Normalisierung (1NF, 2NF, 3NF)</li>
+                <li>Transaktionen und ACID-Prinzipien</li>
+                <li>JDBC-Verbindung Java ↔ Datenbank</li>
+            </ul>
+        </div>
+ <!-- HTML/CSS -->
+        <div style="background: var(--bg-dark); padding: 1rem; border-radius: 8px; border-left: 3px solid #e34c26;">
+            <h4 style="color: #e34c26; margin-bottom: 0.5rem;">🌐 Webentwicklung (HTML & CSS)</h4>
+            <ul style="margin-left: 1.2rem; color: var(--text-secondary); font-size: 0.9rem; line-height: 1.8;">
+                <li>Semantisches HTML5 (header, nav, main, article, section, footer)</li>
+                <li>Formulare und Validierung</li>
+                <li>CSS Layout-Techniken (Flexbox, CSS Grid)</li>
+                <li>Responsive Design (Media Queries, Mobile-First)</li>
+                <li>CSS-Variablen und Custom Properties</li>
+                <li>Animationen und Transitions</li>
+                <li>Dark Mode Implementierung</li>
+            </ul>
+        </div>
+  <!-- PyCharm/IDE -->
+        <div style="background: var(--bg-dark); padding: 1rem; border-radius: 8px; border-left: 3px solid #00d9ff;">
+            <h4 style="color: #00d9ff; margin-bottom: 0.5rem;">🛠️ PyCharm & Entwicklungswerkzeuge</h4>
+            <ul style="margin-left: 1.2rem; color: var(--text-secondary); font-size: 0.9rem; line-height: 1.8;">
+                <li>Projekt-Setup und virtuelle Umgebungen</li>
+                <li>Debugging (Breakpoints, Step-Through, Watch-Expressions)</li>
+                <li>Code-Refactoring und automatische Code-Vervollständigung</li>
+                <li>Version Control Integration (Git-Commits, Branches, Merge)</li>
+                <li>Datenbank-Tools direkt in der IDE</li>
+                <li>Terminal- und Docker-Integration</li>
+            </ul>
+        </div>
+    </div>
+</div>
  <!-- Ausbildungsverlauf -->
         <div class="card">
             <h2>
@@ -650,7 +773,7 @@
             animateValue('commit-count', 0, 150, 2000);
         });
  // Dynamisches Laden der GitHub Repos (optional)
-        const username = 'DEIN_GITHUB_USERNAME'; // <-- HIER DEINEN USERNAME EINTRAGEN
+        const username = ; // <-- HIER DEINEN USERNAME EINTRAGEN
         
    async function fetchGitHubRepos() {
             try {
