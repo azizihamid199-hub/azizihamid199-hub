@@ -66,34 +66,40 @@
         </div>
     </section>
 
-    <!-- Projekte -->
-   <section>
-        <h2>Meine Projekte</h2>
-        
-   <div class="project">
-            <div class="project-header">
-                <a href="#" class="project-name">📁 Todo-App</a>
-                <span class="project-lang">Java + SQLite</span>
-            </div>
-            <p class="project-desc">Aufgabenverwaltung mit JavaFX-Oberfläche und lokaler Datenbank.</p>
+   
+       <!-- PROJEKTE-SEKTION -->
+<section>
+    <h2>Meine Projekte</h2>
+     <!-- Projekt 1 -->
+    <div class="project">
+        <div class="project-header">
+            <!-- 🔧 HIER: Link zu deinem GitHub-Repository -->
+            <a href="https://github.com/azizihamid199-hub/car-rental" class="project-name" target="_blank">📁 car-rental</a>
+            <span class="project-lang">Java + SQLite</span>
         </div>
+        <p class="project-desc">Aufgabenverwaltung mit JavaFX-Oberfläche und lokaler Datenbank.</p>
+    </div>
 
-   <div class="project">
-            <div class="project-header">
-                <a href="#" class=https://github.com/azizihamid199-hub/car-rental>📁https://github.com/azizihamid199-hub/car-rental </a>
-                <span class="project-lang">HTML / CSS</span>
-            </div>
-            <p class="project-desc">Diese Seite – responsive, Dark Mode, ohne Frameworks.</p>
+    <!-- Projekt 2 -->
+    <div class="project">
+        <div class="project-header">
+            <!-- 🔧 HIER: Link zu deinem GitHub-Repository -->
+            <a href="https://github.com/DEIN_USERNAME/portfolio-seite" class="project-name" target="_blank">📁 Portfolio-Seite</a>
+            <span class="project-lang">HTML / CSS</span>
         </div>
+        <p class="project-desc">Diese Seite – responsive, Dark Mode, ohne Frameworks.</p>
+    </div>
 
-   <div class="project">
-            <div class="project-header">
-                <a href="#" class="project-name">📁 Wetter-Tool</a>
-                <span class="project-lang">Python</span>
-            </div>
-            <p class="project-desc">API-Abfrage und Datenverarbeitung mit Python-Script.</p>
+    <!-- Projekt 3 -->
+    <div class="project">
+        <div class="project-header">
+            <!-- 🔧 HIER: Link zu deinem GitHub-Repository -->
+            <a href="https://github.com/DEIN_USERNAME/wetter-tool" class="project-name" target="_blank">📁 Wetter-Tool</a>
+            <span class="project-lang">Python</span>
         </div>
-    </section>
+        <p class="project-desc">API-Abfrage und Datenverarbeitung mit Python-Script.</p>
+    </div>
+</section> 
 
     <!-- GitHub Stats -->
    <section>
