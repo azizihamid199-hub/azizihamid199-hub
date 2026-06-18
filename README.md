@@ -49,17 +49,17 @@
         <h2>Mein Weg</h2>
         <div class="timeline">
             <div class="timeline-item done">
-                <div class="timeline-date">2023</div>
+                <div class="timeline-date">2024</div>
                 <div class="timeline-title">Erste Schritte</div>
                 <div class="timeline-desc">Selbststudium: HTML, CSS, Python-Grundlagen</div>
             </div>
             <div class="timeline-item done">
-                <div class="timeline-date">2024 – Heute</div>
+                <div class="timeline-date">2026 – Heute</div>
                 <div class="timeline-title">Umschulung Fachinformatiker AE</div>
                 <div class="timeline-desc">Berufsschule + Praxis: Java, SQL, OOP, Datenbanken</div>
             </div>
             <div class="timeline-item">
-                <div class="timeline-date">2026</div>
+                <div class="timeline-date">2027</div>
                 <div class="timeline-title">IHK-Abschluss & Berufseinstieg</div>
                 <div class="timeline-desc">Ziel: Junior Developer oder Ausbildungsplatz</div>
             </div>
