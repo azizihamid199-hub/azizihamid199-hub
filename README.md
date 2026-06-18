@@ -1,6 +1,4 @@
-     
 
-    <!-- Header -->
    <div class="header">
         <img src="https://github.com/github.png" alt="Profilbild">
         <h1>Hamid Azizi</h1>
@@ -32,13 +30,13 @@
             </span>
             <span class="skill-tag">🗄️ SQL <span class="level">●●●○○</span>
             </span>
-            <span class="skill-tag">🌐 HTML5 <span class="level">●●●●○</span>
+            <span class="skill-tag">🌐 HTML5 <span class="level">●●●○○</span>
             </span>
-            <span class="skill-tag">🎨 CSS3 <span class="level">●●●●○</span>
+            <span class="skill-tag">🎨 CSS3 <span class="level">●●●○○</span>
             </span>
-            <span class="skill-tag">🛠️ PyCharm <span class="level">●●●●○</span>
+            <span class="skill-tag">🛠️ PyCharm <span class="level">●●●○○</span>
             </span>
-            <span class="skill-tag">🐙 Git/GitHub <span class="level">●●●○○</span>
+            <span class="skill-tag">🐙 Git/GitHub <span class="level">●●○○○</span>
             </span>
         </div>
         <p style="color: #8b949e; font-size: 0.85rem; margin-top: 0.8rem;">
