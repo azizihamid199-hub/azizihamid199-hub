@@ -1,7 +1,7 @@
-<!DOCTYPE html>
-<html lang="de">
-<head>
-    <meta charset="UTF-8">
+     <!DOCTYPE html>
+     <html lang="de">
+     <head>
+      <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Fachinformatiker AE – GitHub Profil</title>
     <style>
@@ -343,7 +343,7 @@
    <section>
         <h2>GitHub Aktivität</h2>
         <p style="text-align: center;">
-            <img src="https://github-readme-stats.vercel.app/api?username=DEIN_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" 
+            <img src="https://github-readme-stats.vercel.app/api?username=azizihamid199-hub&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" 
                  alt="Stats" style="max-width: 100%; border-radius: 8px;">
         </p>
     </section>
@@ -352,7 +352,7 @@
    <section>
         <h2>Kontakt</h2>
         <div class="contact">
-            <a href="https://github.com/DEIN_USERNAME" target="_blank">🐙 GitHub</a>
+            <a href="https://github.com/azizihamid199-hub" target="_blank">🐙 GitHub</a>
             <a href="azizihamid199@gmail.com">📧 E-Mail</a>
         </div>
    </section>
